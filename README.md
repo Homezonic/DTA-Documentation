@@ -8,7 +8,7 @@ This repo contains my activity during **Incubator Future Clan Bootcamp**
 - Data from SQL (_thanks to gitdats_)
 
 ## Tools Used
-- Power Bi _[Microsoft]_
+- Power Bi [Microsoft](https://microsoft.com/)
 - Python
-- Excel _[Microsoft]_
+- Excel [Microsoft](https://microsoft.com/)
 - MySQLi
